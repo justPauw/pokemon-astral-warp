@@ -26,9 +26,6 @@ nav:
 - Home: index.md
 - Item Changes: item_changes.md
 - Pokemon:
-  - 001 - Lycanode: pokemon/001-lycanode.md
-  - 261 - Poochyena: pokemon/261-poochyena.md
-  - 262 - Mightyena: pokemon/262-mightyena.md
 - Routes: []
 plugins:
 - search:
