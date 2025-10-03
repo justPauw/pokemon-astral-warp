@@ -1,4 +1,4 @@
-## Welcome to the Umbral Stasis Wikipedia
+## Welcome to the Astral Warp Wikipedia
 This game is still in a fairly early development. On the left side you may browse different types of available content and information. There is quite a few changes done to both stats and typings of some Pokémon. In the "What's New" section below you can find a few examples.
 
 

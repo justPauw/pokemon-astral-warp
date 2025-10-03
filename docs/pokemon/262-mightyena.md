@@ -79,7 +79,11 @@
   </tbody>
 </table>
 
-
+##Evolution Change
+| Method | Item/Level/Note | Evolved Pokemon |
+        | :--: | :--: | :--: |
+        | Item | Spectral Stone | Spectryena |
+        
 
 
 

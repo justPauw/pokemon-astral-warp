@@ -1,14 +1,14 @@
 site_name: Pokemon Astral Warp
 site_url: https://.github.io/pokemon-astral-warp
 site_description: Wikipedia Page for the fan-game Pokemon Astral Warp
-site_author: ''
+site_author: justPauw
 repo_url: https://github.com//pokemon-astral-warp
 theme:
   name: material
   features:
   - content.tabls.links
   - content.tooltips
-  favicon: img/items/poke-ball.png
+  favicon: img/items/premier-ball.png
   palette:
   - media: '(prefers-color-scheme: light)'
     primary: black
@@ -18,13 +18,15 @@ theme:
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     primary: black
-    scheme: default
+    scheme: slate
     toggle:
       icon: material/eye
       name: Switch to light mode
 nav:
 - Home: index.md
+- Item Changes: item_changes.md
 - Pokemon:
+  - 001 - Lycanode: pokemon/001-lycanode.md
   - 261 - Poochyena: pokemon/261-poochyena.md
   - 262 - Mightyena: pokemon/262-mightyena.md
 - Routes: []
