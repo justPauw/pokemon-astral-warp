@@ -24,6 +24,7 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
+- Ability Changes: ability_changes.md
 - Item Changes: item_changes.md
 - Pokemon:
   - 001 - Lycanode: pokemon/001-lycanode.md

@@ -12,7 +12,7 @@
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div class="attribute-value">
-        <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+        <a href='' title="When knocking out a target, raises Attack.">Electrostatic</a>
         
       </div>
     </div>
