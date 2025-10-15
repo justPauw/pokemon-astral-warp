@@ -25,7 +25,8 @@ theme:
 nav:
 - Home: index.md
 - Item Changes: item_changes.md
-- Pokemon: []
+- Pokemon:
+  - 001 - Lycanode: pokemon/001-lycanode.md
 - Routes: []
 plugins:
 - search:
