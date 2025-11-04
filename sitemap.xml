@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://.github.io/pokemon-astral-warp/</loc>
-         <lastmod>2025-10-15</lastmod>
+         <lastmod>2025-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://.github.io/pokemon-astral-warp/ability_changes/</loc>
-         <lastmod>2025-10-15</lastmod>
+         <lastmod>2025-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://.github.io/pokemon-astral-warp/item_changes/</loc>
-         <lastmod>2025-10-15</lastmod>
+         <lastmod>2025-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://.github.io/pokemon-astral-warp/pokemon/001-lycanode/</loc>
-         <lastmod>2025-10-15</lastmod>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/511-pansage/</loc>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/512-simisage/</loc>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/513-pansear/</loc>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/514-simisear/</loc>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/515-panpour/</loc>
+         <lastmod>2025-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://.github.io/pokemon-astral-warp/pokemon/516-simipour/</loc>
+         <lastmod>2025-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
