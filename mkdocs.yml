@@ -2,7 +2,7 @@ site_name: Pokemon Astral Warp
 site_url: https://.github.io/pokemon-astral-warp
 site_description: Wikipedia Page for the fan-game Pokemon Astral Warp
 site_author: justPauw
-repo_url: https://github.com//pokemon-astral-warp
+repo_url: https://github.com/justPauw/pokemon-astral-warp
 theme:
   name: material
   features:
@@ -28,6 +28,12 @@ nav:
 - Item Changes: item_changes.md
 - Pokemon:
   - 001 - Lycanode: pokemon/001-lycanode.md
+  - 511 - Pansage: pokemon/511-pansage.md
+  - 512 - Simisage: pokemon/512-simisage.md
+  - 513 - Pansear: pokemon/513-pansear.md
+  - 514 - Simisear: pokemon/514-simisear.md
+  - 515 - Panpour: pokemon/515-panpour.md
+  - 516 - Simipour: pokemon/516-simipour.md
 - Routes: []
 plugins:
 - search:
